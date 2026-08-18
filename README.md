@@ -1,14 +1,10 @@
 # DBMS Mini Project
 
-## Team Denormies
+
 
 | Name                     | Roll No.  |
 |--------------------------|-----------|
-| Yelisetty Karthikeya S M | 21CS30060 |
-| Vonteri Varshith Reddy   | 21CS10081 |
-| Manaswi Raj              | 21CS10088 |
-| Thota Kesava Chandra     | 21CS30056 |
-| Parthiv Reddy            | 21CS10006 |
+| PRINCE KUMAR             | 2313110 |
 
 ---
 
